@@ -1,0 +1,44 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+.container{
+    background-color: violet;
+}
+
+.header{
+    padding: 50px 0px;
+    background-color: brown;
+    background-size: cover;
+    background-position: top center;
+}
+
+.logo img{
+    width: 200px
+}
+.banner-main{
+    
+}
+
+.banner-main h2{
+    background: brown;
+    display: inline-block;
+    padding: 5px 30px;
+    color: white;
+}
+    
+
+.banner-main p{
+    
+}
+
+.banner-main span{
+    
+}
+
+.custom-btn{
+    color: black;
+    background: purple;
+}
+
